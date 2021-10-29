@@ -36,3 +36,19 @@ input {
 img {
 	max-width: 300px;
 }
+
+.about-btns {
+	background-color: rgb(136, 58, 238);
+	color: rgb(67, 147, 218);
+	border: none;
+    border-radius: 10px;
+    padding: 1%;
+	font-size: large;
+}
+
+.about-btns:hover {
+	cursor: pointer;
+	background-color: rgb(41, 41, 41);
+	color: rgb(136, 58, 238);
+	transition: .5s;
+}
