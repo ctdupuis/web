@@ -1,0 +1,9 @@
+The internet works based on 4 main verbs: get, post, put, and delete. These verbs describe the approach to how the web handles what you request of it.
+
+A get request is a simple request to view information hosted somewhere. Majority of the time when you click on a link, you are making a get request to the web site or web app attributed to the link's URL. 
+
+A post request allows us, as users, to persist data to the web. This includes publishing a blog, posting to social media, and signing up for an account.
+
+A put request is an attempt by a user to change data on the web. Examples are changing your profile picture or updating your password.
+
+A delete request allows a user to remove information from the web depending on his, her or their authrization.
