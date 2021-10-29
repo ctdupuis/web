@@ -35,6 +35,7 @@ input {
 
 img {
 	max-width: 300px;
+	height: 100px;
 }
 
 .about-btns {
@@ -51,4 +52,31 @@ img {
 	background-color: rgb(41, 41, 41);
 	color: rgb(136, 58, 238);
 	transition: .5s;
+}
+
+.eat {
+	list-style: none;
+	margin: 2% 0;
+	display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+/* .eat:hover {
+	background-color: rgb(67, 147, 218);
+	transition: 0.5s;
+} */
+
+.my-links {
+	text-decoration: none;
+	color:rgb(67, 147, 218);
+}
+
+.my-links:hover {
+	color:rgb(136, 58, 238);
+}
+
+.rest-cont {
+	display: flex;
+    flex-direction: column;
 }
